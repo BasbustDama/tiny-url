@@ -1,5 +1,4 @@
 # tiny-url
 
 ### API:
-- /:shortURL <- forward by short URL
-- /add <- generate short URL
+[swagger doc](./docs/openapi.yaml)
